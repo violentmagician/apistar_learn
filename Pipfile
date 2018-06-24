@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 apistar = "*"
+aiofiles = "*"
 
 [dev-packages]
 pylint = "*"
